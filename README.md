@@ -97,8 +97,3 @@
 * **Select a Question** from the dropdown option you can get the **results in Dataframe format or bar chat format**.
 
 
-## Video link
-
-* Click the below Image
-
-[![Intro GUI](https://github.com/Gopinathalpha7/YouTube_Data_Harvesting_and_Warehousing./blob/3af3b25e63dd3d8b1928050135ebadbbf9b6f0e6/youtube%20data%20harvesting%20gui.png)](https://www.linkedin.com/feed/update/urn:li:activity:7065793132247871488/)
